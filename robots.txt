@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://outorgunt.github.io/outorgunt.txt.gz
+Sitemap: https://outorgunt.github.io/app/outorgunt.txt.gz
+Sitemap: https://outorgunt.github.io/assets/outorgunt.txt.gz
+Sitemap: https://outorgunt.github.io/css/outorgunt.txt.gz
+Sitemap: https://outorgunt.github.io/includes/outorgunt.txt.gz
+Sitemap: https://outorgunt.github.io/item/outorgunt.txt.gz
+Sitemap: https://outorgunt.github.io/src/outorgunt.txt.gz
